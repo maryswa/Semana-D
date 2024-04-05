@@ -1,0 +1,52 @@
+header{
+    text-align: center;
+    width: 100%;
+    border: 3px solid #DFF5FF;
+    margin: 10px 0;
+    border-radius: 10px;
+    background: #67C6E3;
+    color: #DFF5FF;
+}
+
+body{
+    background: #5356FF;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+    margin: 0;
+}
+
+.container{
+  background: #5356FF;
+  text-align: center;
+}
+
+h4{
+    margin: 0;
+    color: #DFF5FF;
+    text-align: center;
+}
+
+.descricao{
+    border: 3px solid #DFF5FF;
+    border-radius: 10px;
+    color: #DFF5FF;
+}
+
+.rodape a{
+    text-decoration: none;
+    border: 5px solid #DFF5FF;
+    padding: 10px;
+    border-radius: 30px;
+     background-color: #67C6E3;
+     color: #DFF5FF;
+    
+}
+
+.rodape{
+    margin: 30px;
+    font-size: 30px;
+}
